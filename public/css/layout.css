@@ -35,11 +35,23 @@ header {
   height: 800px;
   min-height: 500px;
   width: 100%;
-  background: #161415 url(../images/header-background.jpg) no-repeat top center;
-  background-size: cover !important;
+  background: #161415 url(../images/eberhard-grossgasteiger-cgEbku0EbOg-unsplash.jpg);
+  object-fit: contain;
   -webkit-background-size: cover !important;
   text-align: center;
-  overflow: hidden;
+  /* overflow: hidden; */
+  background-position: center; /* Center the image */
+  background-repeat: no-repeat; /* Do not repeat the image */
+  background-size: cover;
+}
+
+.particle {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 98vw;
+  height: 66vh;
+  z-index: 1000;
 }
 
 /* vertically center banner section */

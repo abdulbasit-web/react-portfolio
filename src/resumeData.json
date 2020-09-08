@@ -1,10 +1,10 @@
 {
   "main": {
     "name": "Abdulbasit Salah",
-    "occupation": "ReactJS Developer && Instructor @CleverProgrammer",
-    "description": "Full Stack React Developer by Day, Founder && Freelancer by Night. #papaReact",
-    "image": "IG_Sonny.jpeg",
-    "bio": "My name is Sonny, I'm a Full Stack ReactJS Developer. Currently I'm working at Clever Programmer while also coaching ",
+    "occupation": "ReactJS Developer ",
+    "description": "Full Stack React Developer by Day",
+    "image": "2019-07-19-08-53-33-125.jpg",
+    "bio": "My name is Abdylbasit, I'm a Full Stack ReactJS Developer",
     "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
     "email": "abdullbasit99salah@gmail.com",
     "phone": "+964 0750 425 9180",
@@ -19,22 +19,22 @@
     "social": [
       {
         "name": "facebook",
-        "url": "https://www.facebook.com/sonny.sangha.3",
+        "url": "https://www.facebook.com/abdulbasit.salah.7",
         "className": "fa fa-facebook"
       },
       {
         "name": "linkedin",
-        "url": "https://www.linkedin.com/in/saajansangha/",
+        "url": "https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fabdulbasit-salah-2b983416b%3Ffbclid%3DIwAR3Uw9_dOmEDI9F2LIqFwd1wrPWLWgUCMHdXrSQvaA_6z9nOEJ_O-jkW7jY&h=AT3beNtKFPz28_xcHw0FZdDo3CzSPyWU74O4kuY7GtkSfHmHJM6hUQCUso-AkyZnNAnuyrrxDwiyB-MNteej0vv7hSFZpbUL-99quTsG7K96weVDL0ELp8fHxAjAvL_z9qB3lQ",
         "className": "fa fa-linkedin"
       },
       {
         "name": "instagram",
-        "url": "https://www.instagram.com/ssssangha/",
+        "url": "https://www.instagram.com/abdulbasit_salah/",
         "className": "fa fa-instagram"
       },
       {
         "name": "github",
-        "url": "http://github.com/sonnysangha",
+        "url": "https://github.com/abdulbasit-web",
         "className": "fa fa-github"
       }
     ]
@@ -43,34 +43,28 @@
     "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
     "education": [
       {
-        "school": "University of Kent",
-        "degree": "Masters in Advanced Computer Science",
-        "graduated": "January 2017",
+        "school": "College of Engineering | Salahaddin University-Erbil",
+        "degree": "Software and Informatics Engineering",
+        "graduated": "jull 2021",
         "description": "Graduated with Distinction"
       }
     ],
     "work": [
       {
-        "company": "Clever Programmer",
-        "title": "Team Member && React Specialist",
+        "company": "Recoded House",
+        "title": "Front-End developer",
         "years": "April 2020 - Present",
-        "description": "Teaching ReactJS to thousands of students."
-      },
-      {
-        "company": "Lindar Media",
-        "title": "Software Engineer",
-        "years": "Nov 2019 - April 2020",
-        "description": "Building MrQ, a gambling website."
+        "description": "Create Beutiful we app"
       }
     ],
     "skills": [
       {
         "name": "ReactJs",
-        "level": "100%"
+        "level": "85%"
       },
       {
         "name": "CSS",
-        "level": "95%"
+        "level": "80%"
       },
       {
         "name": "Git",
@@ -78,15 +72,23 @@
       },
       {
         "name": "Figma && Adobe XD",
-        "level": "55%"
+        "level": "33%"
       },
       {
         "name": "HTML5",
         "level": "80%"
       },
       {
-        "name": "MongoDB",
+        "name": "Bootstarp 4",
         "level": "80%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "70%"
+      },
+      {
+        "name": "Larvel 7",
+        "level": "30%"
       }
     ]
   },
@@ -131,7 +133,7 @@
         "user": "Kareem Abdul Jabbar"
       },
       {
-        "text": "That Sonny Sangha must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "text": "That Abdulbasit must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
         "user": "Steve Wozniak... impersonator"
       }
     ]

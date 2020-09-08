@@ -1,4 +1,5 @@
 import React from 'react'
+import Particles from 'react-particles-js'
 
 function Header({data}) {
   return (
@@ -63,6 +64,44 @@ function Header({data}) {
           </ul>
         </div>
       </div>
+
+      <Particles
+        className='particle'
+        params={{
+          particles: {
+            number: {
+              value: 300,
+              density: {
+                enable: 1000,
+              },
+            },
+            size: {
+              value: 5,
+              random: true,
+            },
+            move: {
+              direction: 'bottom',
+              out_mode: 'out',
+            },
+            line_linked: {
+              enable: false,
+            },
+          },
+          interactivity: {
+            events: {
+              onclick: {
+                enable: true,
+                mode: 'push',
+              },
+            },
+            modes: {
+              remove: {
+                particles_nb: 10,
+              },
+            },
+          },
+        }}
+      />
 
       <p className='scrolldown'>
         <a className='smoothscroll' href='#about'>
