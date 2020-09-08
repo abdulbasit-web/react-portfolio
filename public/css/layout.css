@@ -53,7 +53,6 @@ header {
   height: 66vh;
   z-index: 1000;
 }
-
 /* vertically center banner section */
 header:before {
   content: '';
@@ -376,90 +375,90 @@ ul#nav li.current a {
 }
 /*
 .git {
-  	-moz-animation: git 2s ease;
-  	-webkit-animation: git 2s ease;
+   -moz-animation: git 2s ease;
+   -webkit-animation: git 2s ease;
 }
 .illustrator {
-  	-moz-animation: illustrator 2s ease;
-  	-webkit-animation: illustrator 2s ease;
+   -moz-animation: illustrator 2s ease;
+   -webkit-animation: illustrator 2s ease;
 }
 .reactjs {
-  	-moz-animation: reactjs 2s ease;
-  	-webkit-animation: reactjs 2s ease;
+   -moz-animation: reactjs 2s ease;
+   -webkit-animation: reactjs 2s ease;
 }
 .css {
-  	-moz-animation: css 2s ease;
-  	-webkit-animation: css 2s ease;
+   -moz-animation: css 2s ease;
+   -webkit-animation: css 2s ease;
 }
 .html5 {
-  	-moz-animation: html5 2s ease;
-  	-webkit-animation: html5 2s ease;
+   -moz-animation: html5 2s ease;
+   -webkit-animation: html5 2s ease;
 }
 .vuejs {
-  	-moz-animation: vuejs 2s ease;
-  	-webkit-animation: vuejs 2s ease;
+   -moz-animation: vuejs 2s ease;
+   -webkit-animation: vuejs 2s ease;
 }
 .mongodb {
-  	-moz-animation: mongodb 2s ease;
-  	-webkit-animation: mongodb 2s ease;
+   -moz-animation: mongodb 2s ease;
+   -webkit-animation: mongodb 2s ease;
 }
 
 @-moz-keyframes git {
-  0%   { width: 0px;  }
-  100% { width: 60%;  }
+ 0%   { width: 0px;  }
+ 100% { width: 60%;  }
 }
 @-moz-keyframes illustrator {
-  0%   { width: 0px;  }
-  100% { width: 55%;  }
+ 0%   { width: 0px;  }
+ 100% { width: 55%;  }
 }
 @-moz-keyframes reactjs {
-  0%   { width: 0px;  }
-  100% { width: 50%;  }
+ 0%   { width: 0px;  }
+ 100% { width: 50%;  }
 }
 @-moz-keyframes css {
-  0%   { width: 0px;  }
-  100% { width: 90%;  }
+ 0%   { width: 0px;  }
+ 100% { width: 90%;  }
 }
 @-moz-keyframes html5 {
-  0%   { width: 0px;  }
-  100% { width: 80%;  }
+ 0%   { width: 0px;  }
+ 100% { width: 80%;  }
 }
 @-moz-keyframes vuejs {
-  0%   { width: 0px;  }
-  100% { width: 50%;  }
+ 0%   { width: 0px;  }
+ 100% { width: 50%;  }
 }
 @-moz-keyframes mongodb {
-  0%   { width: 0px;  }
-  100% { width: 80%;  }
+ 0%   { width: 0px;  }
+ 100% { width: 80%;  }
 }
 
 @-webkit-keyframes photoshop {
-  0%   { width: 0px;  }
-  100% { width: 60%;  }
+ 0%   { width: 0px;  }
+ 100% { width: 60%;  }
 }
 @-webkit-keyframes illustrator {
-  0%   { width: 0px;  }
-  100% { width: 55%;  }
+ 0%   { width: 0px;  }
+ 100% { width: 55%;  }
 }
 @-webkit-keyframes reactjs {
-  0%   { width: 0px;  }
-  100% { width: 50%;  }
+ 0%   { width: 0px;  }
+ 100% { width: 50%;  }
 }
 @-webkit-keyframes css {
-  0%   { width: 0px;  }
-  100% { width: 90%;  }
+ 0%   { width: 0px;  }
+ 100% { width: 90%;  }
 }
 @-webkit-keyframes html5 {
-  0%   { width: 0px;  }
-  100% { width: 80%;  }
+ 0%   { width: 0px;  }
+ 100% { width: 80%;  }
 }
 @-webkit-keyframes vuejs {
-  0%   { width: 0px;  }
-  100% { width: 50%;  }
+ 0%   { width: 0px;  }
+ 100% { width: 50%;  }
 }
 @-webkit-keyframes mongodb {
-  0%   { width: 0px;  }
-  100% { width: 80%;  }
+ 0%   { width: 0px;  }
+ 100% { width: 80%;  }
 }  */
 
 /* ------------------------------------------------------------------ */
@@ -693,8 +692,8 @@ ul#nav li.current a {
 }
 /*#
 call-to-action .button {
-	color:#fff;
-   background: #0D0D0D;
+ color:#fff;
+  background: #0D0D0D;
 }
 */
 #call-to-action .button:hover,
@@ -839,7 +838,7 @@ call-to-action .button {
 
 /* No JavaScript Fallback */
 /* If you are not using another script, such as Modernizr, make sure you
- * include js that eliminates this class on page load */
+* include js that eliminates this class on page load */
 .no-js .slides > li:first-child {
   display: block;
 }
