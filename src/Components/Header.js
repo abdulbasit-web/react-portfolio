@@ -47,7 +47,7 @@ function Header({data}) {
 
       <div className='row banner'>
         <div className='banner-text'>
-          <h1 className='responsive-headline'>I'm {data?.name}.</h1>
+          <h1 className='responsive-headline'>I'm aa {data?.name}.</h1>
           <h3>
             I'm a {data?.city} based <span>{data?.occupation}</span>. {data?.description}.
           </h3>
