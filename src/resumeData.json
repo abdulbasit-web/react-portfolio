@@ -1,17 +1,17 @@
 {
   "main": {
-    "name": "Sonny Sangha",
+    "name": "Abdulbasit Salah",
     "occupation": "ReactJS Developer && Instructor @CleverProgrammer",
     "description": "Full Stack React Developer by Day, Founder && Freelancer by Night. #papaReact",
     "image": "IG_Sonny.jpeg",
     "bio": "My name is Sonny, I'm a Full Stack ReactJS Developer. Currently I'm working at Clever Programmer while also coaching ",
     "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
-    "email": "sonny@cleverprogrammer.com",
-    "phone": "+44 12 345 6789",
+    "email": "abdullbasit99salah@gmail.com",
+    "phone": "+964 0750 425 9180",
     "address": {
-      "street": "123 Fake Street",
-      "city": "London",
-      "state": "UK",
+      "street": "Erbil",
+      "city": "Kurdistan",
+      "state": "Iraq",
       "zip": "ABC 123"
     },
     "website": "http://www.timbakerdev.com",

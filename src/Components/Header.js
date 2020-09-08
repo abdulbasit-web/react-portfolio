@@ -47,7 +47,7 @@ function Header({data}) {
 
       <div className='row banner'>
         <div className='banner-text'>
-          <h1 className='responsive-headline'>I'm aa {data?.name}.</h1>
+          <h1 className='responsive-headline'>I'm {data?.name}.</h1>
           <h3>
             I'm a {data?.city} based <span>{data?.occupation}</span>. {data?.description}.
           </h3>
@@ -55,8 +55,8 @@ function Header({data}) {
           <ul className='social'>
             {data?.social.map(item => (
               <li key={item.name}>
-                <a href={item.url} className={item.className}>
-                  {item.name}
+                <a href={item.url}>
+                  <i className={item.className}></i>
                 </a>
               </li>
             ))}
@@ -74,19 +74,3 @@ function Header({data}) {
 }
 
 export default Header
-
-// if (this.props.data) {
-//   var name = this.props.data.name
-//   var occupation = this.props.data.occupation
-//   var description = this.props.data.description
-//   var city = this.props.data.address.city
-//   var networks = this.props.data.social.map(function (network) {
-//     return (
-//       <li key={network.name}>
-//         <a href={network.url}>
-//           <i className={network.className}></i>
-//         </a>
-//       </li>
-//     )
-//   })
-// }

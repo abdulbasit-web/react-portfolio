@@ -7,15 +7,14 @@ import Resume from './Components/Resume'
 import Contact from './Components/Contact'
 import Testimonials from './Components/Testimonials'
 import Portfolio from './Components/Portfolio'
+import data from './resumeData.json'
 
 function App() {
   const [resumeData, setResumeData] = useState({})
   const [foo, setFoo] = useState('bar')
 
   useEffect(() => {
-    fetch('/resumeData.json')
-      .then(res => res.json())
-      .then(data => setResumeData(data))
+    setResumeData(data)
   }, [])
 
   return (
