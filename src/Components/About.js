@@ -1,11 +1,13 @@
-import React, {Component} from 'react'
+import React from 'react'
 
 function About({data}) {
   return (
     <section id='about'>
       <div className='row'>
         <div className='three columns'>
-          {data && <img className='profile-pic' src={data.image} alt='Tim Baker Profile Pic' />}
+          {data && (
+            <img className='profile-pic' src={`images/${data.image}`} alt='Tim Baker Profile Pic' />
+          )}
         </div>
         <div className='nine columns main-col'>
           <h2>About Me</h2>
