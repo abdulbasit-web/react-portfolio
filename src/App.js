@@ -11,7 +11,7 @@ import data from './resumeData.json'
 
 function App() {
   const [resumeData, setResumeData] = useState({})
-  const [foo, setFoo] = useState('bar')
+  // const [foo, setFoo] = useState('bar')
 
   useEffect(() => {
     setResumeData(data)
