@@ -31,11 +31,11 @@ function About({data}) {
               </p>
             </div>
             <div className='columns download'>
-              <p>
+              {/* <p>
                 <a href={data?.resumedownload} className='button'>
                   <i className='fa fa-download'></i>Download Resume
                 </a>
-              </p>
+              </p> */}
             </div>
           </div>
         </div>
